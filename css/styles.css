@@ -242,7 +242,6 @@ margin-bottom: 8px
 
 .footer {
 background-color:#2E2F42;
-width: 1440px;
 padding: 100px 0;
 }
 
@@ -292,7 +291,7 @@ align-items: center;
 
 .section {
     padding: 120px 0 120px 0;
-    max-width: 1440px;
+    
 }
 
 .features-list {
