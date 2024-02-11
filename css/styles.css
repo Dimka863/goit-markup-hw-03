@@ -55,6 +55,19 @@ margin-right: 76px;
 display: inline-block;
 }
 
+.logo-footer {
+color:#4D5AE5;
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+display: inline-block;
+margin-bottom: 16px;
+}
+
+
 .logo-1 {
 color: #2E2F42;
 font-family: "Raleway", sans-serif;
