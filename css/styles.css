@@ -53,6 +53,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 margin-right: 76px;
 display: inline-block;
+padding: 24px 0
 }
 
 .logo-footer {
@@ -258,25 +259,25 @@ nav, address, ul {
 }
 
 .header {
-    width: 1440px;
     padding: 0 141px;
     border-bottom: 1px solid #e7e9fc
 }
 
 header .container {
-    display: flex;
-    padding: 24px 0;
+    display: flex;;
 }
 
 .menu-nav {
     display: flex;
     gap: 40px;
+    padding: 24px 0
 }
 
 .menu-address {
 margin-left: 332px;
 display: flex;
 gap: 40px;
+padding: 24px 0
 }
 
 
