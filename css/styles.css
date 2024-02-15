@@ -16,6 +16,8 @@ button {
 img {
     display: block;
 	object-fit: cover;
+    max-width: 100%;
+    height: auto;
 }
 
 a {
@@ -274,7 +276,6 @@ header .container {
 }
 
 .menu-address {
-margin-left: 332px;
 display: flex;
 gap: 40px;
 padding: 24px 0
@@ -345,4 +346,9 @@ align-items: center;
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
 }
